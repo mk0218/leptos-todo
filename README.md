@@ -1,5 +1,5 @@
 # Leptos-Todo
-A TODO web app built on `leptos`, a frontend framework written in pure rust.  
+A TODO web app built on [leptos](https://github.com/leptos-rs/leptos/), a frontend framework written in pure rust.  
 Most of the implementation referred
 [the TodoMVC example](https://github.com/leptos-rs/leptos/tree/main/examples/todomvc)
 on leptos github, though some designs are original.
